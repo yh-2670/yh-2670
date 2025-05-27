@@ -16,13 +16,15 @@
 <strong>Yumin Ha / 하유민</strong>🙌
  <br>별명: ㅠ만<br>
 
+ BD✨: 2012.01.09
+
+ Family [Dad👨🏻, Mom👩🏻, Sis👱🏻‍♀️, Me👧🏻]
+
  학교: Branksome Hall Asia / 브랭섬홀 아시아
  
  \+ Class of 2030
 
 Sports: 🎾🏒
-
-BD✨: 2012.01.09
 
 When I go out with my friend: 🍽 --> 🥤 --> 🎤
 
@@ -30,11 +32,14 @@ Instruments: 🎻
 
 What I always wait for every vacation: 🛫 ✈️ 🛬
 
-Emoji I use with my friends: ✨💅
+\+ List of Journey I took: USA, ....나중에 더 채울 예정......,,
+
+Emoji I use with my friends: ✨💅 👁👄👁
 
 Fav Idol: NCT💚🐻
 
 \+ Essential course for Czennie --> Concert !
+
 
 
 
@@ -61,6 +66,7 @@ Fav Idol: NCT💚🐻
 <h3>🚩 프로젝트 🚩</h3>
  
 <h4>My_Pink</h4>
+<img width="1861" alt="Image" src="https://github.com/user-attachments/assets/21c08063-feac-4d7e-a70b-da40d514b433" />
 <p> 🔗 프로젝트 링크 : https://github.com/yh-2670/My-Pink.git 
 </p>
 <p> 🔗 크롬 익스텐션 : https://chromewebstore.google.com/detail/ibgkanfoffngfinbjajdbjlkmhgicjmo?utm_source=item-share-cb 
