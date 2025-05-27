@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Yumin Ha / 하유민 / ㅠ만&fontSize=32&fontColor=bfc0c9" />
-
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yumin%20Ha%20/%20하유민%20/%20ㅠ만&fontSize=40" />
+
 <p>
   <a href="https://www.instagram.com/_yux.m1n/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   
