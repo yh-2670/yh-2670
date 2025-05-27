@@ -53,7 +53,6 @@ Fav Idol: NCT💚🐻
 <h4>USACO</h4>
 25'Jan Bronze 합격 
 
-<img width="899" alt="Image" src="https://github.com/user-attachments/assets/83342b5e-e0d5-457d-acdd-54ccdd2b225e" />
 
 <h4>백준</h4>
 <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=yh_2670" width="42%" height="100%"/>
@@ -94,3 +93,4 @@ Fav Idol: NCT💚🐻
 <br><br><br>
 
  </div>
+
